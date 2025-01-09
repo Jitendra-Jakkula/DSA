@@ -19,5 +19,7 @@ public class ReverseNum {
 			System.out.println("Not palindrome");
 		}
 		System.out.println(rev);
+		//added in dev1
+		
 	}
 }
